@@ -1,1 +1,1 @@
-# Scientific-calculator-using-C
+This is scientific calculator made by me using C++
